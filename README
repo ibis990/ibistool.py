@@ -1,0 +1,9 @@
+PARA UTILIZAR A FERRAMENTA SEGUE OS PASSOS
+
+
+git clone https://github.com/ibis990/ip.py
+cd ip.py
+pip install requests
+python3 ip.py
+
+JÁ ESTA FUNCIONANDO BASTA COLOCAR SEU IP
